@@ -1,0 +1,10 @@
+neuron #(.counter_size(10)) n0(.in(in0)), .weight(weight0), .clk(clk), .rst(rst), .ready(ready[0]), .out(out0), .start(start[0]);
+neuron #(.counter_size(10)) n1(.in(in1)), .weight(weight1), .clk(clk), .rst(rst), .ready(ready[1]), .out(out1), .start(start[1]);
+neuron #(.counter_size(10)) n2(.in(in2)), .weight(weight2), .clk(clk), .rst(rst), .ready(ready[2]), .out(out2), .start(start[2]);
+neuron #(.counter_size(10)) n3(.in(in3)), .weight(weight3), .clk(clk), .rst(rst), .ready(ready[3]), .out(out3), .start(start[3]);
+neuron #(.counter_size(10)) n4(.in(in4)), .weight(weight4), .clk(clk), .rst(rst), .ready(ready[4]), .out(out4), .start(start[4]);
+neuron #(.counter_size(10)) n5(.in(in5)), .weight(weight5), .clk(clk), .rst(rst), .ready(ready[5]), .out(out5), .start(start[5]);
+neuron #(.counter_size(10)) n6(.in(in6)), .weight(weight6), .clk(clk), .rst(rst), .ready(ready[6]), .out(out6), .start(start[6]);
+neuron #(.counter_size(10)) n7(.in(in7)), .weight(weight7), .clk(clk), .rst(rst), .ready(ready[7]), .out(out7), .start(start[7]);
+neuron #(.counter_size(10)) n8(.in(in8)), .weight(weight8), .clk(clk), .rst(rst), .ready(ready[8]), .out(out8), .start(start[8]);
+neuron #(.counter_size(10)) n9(.in(in9)), .weight(weight9), .clk(clk), .rst(rst), .ready(ready[9]), .out(out9), .start(start[9]);
